@@ -1,0 +1,15 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore zip files
+test.zip
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore a specific folder
+json_for_test/
+
+# Ignore Dataset
+test/
