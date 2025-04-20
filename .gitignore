@@ -1,5 +1,6 @@
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+test/.ipynb_checkpoints/
 
 # Ignore zip files
 test.zip
@@ -11,5 +12,5 @@ __pycache__/
 # Ignore a specific folder
 json_for_test/
 
-# Ignore Dataset
-test/
+README.md
+LICENSE
