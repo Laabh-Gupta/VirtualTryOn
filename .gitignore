@@ -11,6 +11,3 @@ __pycache__/
 
 # Ignore a specific folder
 json_for_test/
-
-README.md
-LICENSE
